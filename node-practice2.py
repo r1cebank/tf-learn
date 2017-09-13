@@ -12,7 +12,6 @@ d = tf.sin(c)
 
 e = tf.div(b, d)
 
-sess = tf.Session()
-outs = sess.run(e)
-sess.close()
+with tf.Session() as sess:
+    outs = sess.run(e)
 print("outs = {}".format(outs))

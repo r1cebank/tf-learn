@@ -15,7 +15,6 @@ e = tf.subtract(d, c)
 
 g = tf.div(f, e)
 
-sess = tf.Session()
-outs = sess.run(g)
-sess.close()
+with tf.Session() as sess:
+    outs = sess.run(g)
 print("outs = {}".format(outs))
