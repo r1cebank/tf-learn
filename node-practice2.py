@@ -15,3 +15,5 @@ e = tf.div(b, d)
 with tf.Session() as sess:
     outs = sess.run(e)
 print("outs = {}".format(outs))
+
+print(type(outs))
