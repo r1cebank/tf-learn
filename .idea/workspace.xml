@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62419fa0-b307-40ac-ace7-fb50f3529f0d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tensor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercise1.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node-practice2.py" afterPath="$PROJECT_DIR$/node-practice2.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,11 +64,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tensor.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tensor.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tensor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercise1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercise1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -95,10 +104,11 @@
         <option value="$PROJECT_DIR$/node-practice2.py" />
         <option value="$PROJECT_DIR$/graph.py" />
         <option value="$PROJECT_DIR$/tensor.py" />
+        <option value="$PROJECT_DIR$/exercise1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="59" />
     <option name="y" value="42" />
     <option name="width" value="1400" />
@@ -167,7 +177,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="42" width="1400" height="758" extended-state="1" />
+    <frame x="59" y="42" width="1400" height="758" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25773194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -256,8 +266,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tensor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/-162086702/numpy/random/mtrand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="2068" column="4" lean-forward="false" selection-start-line="2068" selection-start-column="4" selection-end-line="2068" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.2/python_stubs/-162086702/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1010">
+          <caret line="5726" column="4" lean-forward="false" selection-start-line="5726" selection-start-column="4" selection-end-line="5726" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
           <folding />
         </state>
       </provider>
